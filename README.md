@@ -4,10 +4,14 @@ A simple 3D particle life simulator using JavaScript and Three.js.
 
 Currently particles interact with randomized forces, bounce off walls, and are rendered in a dynamic 3D space with camera controls.
 
+## Current Version
+**v1.0.0** — [View all releases](https://github.com/jfell13/ParticleLife3D/releases)
+
 ### Live Demo:
 [Click here to run the simulator](https://jfell13.github.io/ParticleLife3D/)
 
 > NOTE: Use mouse to orbit, pan, and zoom. Watch the particles move and interact inside a 3D bounding box.
+
 
 ---
 
